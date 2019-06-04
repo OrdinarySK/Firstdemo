@@ -4,3 +4,4 @@
 ---------------
 传统的链表沿着链表的反向遍历是困难的，以及操作某个节点的前一个元素，也是十分的困难。 
 　　双向链表提供了这些能力，即可以向前遍历，也可以向后遍历。其中实现在于每个链节点有两个指向其它节点的引用。一个指向前驱节点，一个像传统链表一样指向后继节点。
+![Image text](https://github.com/OrdinarySK/Firstdemo/blob/master/img/shaunglianbiao.png)
